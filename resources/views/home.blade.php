@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('Bienvenue sur Kimia') }}
+                    {{ __('Bienvenue sur Kimia ! Recherchez votre artisan dès maintenant !') }}
                 </div>
             </div>
         </div>
