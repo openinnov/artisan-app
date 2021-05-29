@@ -22,7 +22,7 @@
                     <input name="villeInput" class="form-control form-control-lg" type="text" id="villeInput" placeholder="Ex : Bordeaux">
                 </div>
                 <div class="col">
-                    <button type="submit" class="btn btn-primary btn-lg mt-30" id="validationBtn">Rechercher</button>
+                    <button type="submit" class="btn btn-pink-moon btn-lg mt-30" id="validationBtn">Rechercher</button>
                 </div>
               </form>
         </div>
